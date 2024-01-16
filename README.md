@@ -24,4 +24,4 @@ python3 runner.py [size] [frames] [rules] [colors]
 
 Resources that where used included my Notes from my Cellular Automata Project along with the Wikipedia Page for Langton's Ant. This Project was originally done in a day although was further edited over a month. 
 
-[Reverse Polish Notation](https://en.wikipedia.org/wiki/Langton%27s_ant)
+[Langtons Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
